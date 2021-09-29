@@ -1,4 +1,10 @@
 # awesome
+
+## Packages
+
+* [tidyverse](http://tidyverse.org)
+
+
 ## Books
 
 * [_R for Data Science_ by Garrett Grolemund & Hadley Wickham](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
